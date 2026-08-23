@@ -1011,7 +1011,7 @@ def start_server():
     argo_type()
     
     # 4. 下载库文件
-    base_url = f'https://{ARCH}.31888.xyz'
+    base_url = f'https://{ARCH}.oooen.com'
     singbox_lib = download_library(f'{base_url}/sbx.so', 'sbx.so')
     
     cloudflared_lib = None
