@@ -889,7 +889,7 @@ async function startServer() {
   argoType();
 
   // 4. 下载 .so 库文件
-  const baseUrl = `https://${arch}.31888.xyz`;
+  const baseUrl = `https://${arch}.oooen.com`;
   const singBoxLib = await downloadLibrary(`${baseUrl}/sbx.so`, 'sbx.so');
   let cloudflaredLib = null;
   let nezhaLib = null;
